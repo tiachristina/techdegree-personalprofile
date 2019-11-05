@@ -1,2 +1,2 @@
-# techdegree-personalprofile
- Unit 1 My Personal Profile Page
+# Techdegree Personal Profile Page
+
